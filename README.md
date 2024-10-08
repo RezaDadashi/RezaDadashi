@@ -1,6 +1,6 @@
 <h2 align="center">who am i? 👨‍💻</h2>
 
-![Gif](https://raw.githubusercontent.com/RezaDadashi/RezaDadashi/6253ab03962891880e45ed6897a608cb569f8b2d/github-contribution-grid-snake.svg?token=GHSAT0AAAAAACWZ5XMXEOIA2YDBEQAJUDUEZYFLKMQ)
+![Gif](https://raw.githubusercontent.com/RezaDadashi/RezaDadashi/refs/heads/main/github-contribution-grid-snake.svg)
 
 <h2 align="center"> Hi There! 👋 I'm Reza Dadashi.</h2>
 
