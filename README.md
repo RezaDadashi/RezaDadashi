@@ -13,7 +13,7 @@
 ## ☀️ My Projects Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezadadashi&hide_progress=true)
 
-## 🎓 I use the following skills and technologies:
+## 🎓 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
