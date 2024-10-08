@@ -64,6 +64,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
+##🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rezadadashi&theme=monokai)](https://github.com/rezadadashi/github-profile-trophy)
+
+
 ##
 
 <p>
