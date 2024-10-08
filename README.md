@@ -20,12 +20,6 @@
 </p>
 
 <p>
-  <a href="https://instagram.com/rezadadashi_" _target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-</p>
-
-<p>
   <a href="https://ir.linkedin.com/in/reza-dadashi-5614962a8?trk=people-guest_people_search-card" _target="blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
