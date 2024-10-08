@@ -6,6 +6,36 @@
 
 <h2 align="center">🖥 a FullStack Developer 👨🏼‍🎓❤️ I'm graduate of software engineering 👨🏽‍💻✌🏽 Love the world of zero and one</h2>
 
+## ☎️ Connect Me:
+<p>
+  <a href="https://dadashireza.ir" _target="blank">
+    <img src="https://img.shields.io/badge/website-www.dadashireza.ir-blue?style=for-the-badge&logo=google-chrome&logoColor=orange" />
+  </a>
+</p>
+
+<p>
+  <a href="https://t.me/rdadashi" _target="blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://instagram.com/rezadadashi_" _target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://ir.linkedin.com/in/reza-dadashi-5614962a8?trk=people-guest_people_search-card" _target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.dadashireza.ir/contact" _target="blank">
+    <img src="https://img.shields.io/badge/Send%20Message-www.dadashireza.ir-green?style=flat&logo=message&logoColor=orange" />
+  </a>
+</p>
 
 ## 🌱 My Activity:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezadadashi&show_icons=true&theme=radical)
@@ -40,6 +70,10 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
+##
 
+<p>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=rezadadashi&countColor=%237B1E7A" />
+</p>
 
 
